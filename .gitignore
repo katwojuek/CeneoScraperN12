@@ -130,3 +130,5 @@ dmypy.json
 
 # project
 opinions/
+plots/
+stats/
